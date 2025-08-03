@@ -24,30 +24,33 @@ Com base no XP do herói, o programa define seu nível:
 ## 🧪 Como executar
 
 1. Clone o repositório:
-```bash
+```
 git clone https://github.com/riqueerculano/desafio-felipao.git
-Acesse a pasta:
 
-bash
-Copiar
-Editar
+```
+2. Acesse a pasta:
+
+```
 cd desafio-felipao
-Execute o código (com Node.js):
 
-bash
-Copiar
-Editar
+```
+3. Execute o código (com Node.js):
+
+```
 node src/index.js
 
+```
+
 📌 Exemplo de Saída
-bash
-Copiar
-Editar
+
+```
 O Herói de nome Arthas está no nível de Prata
 O Herói de nome Sylvana está no nível de Ferro
 O Herói de nome Illidan está no nível de Platina
 O Herói de nome Jaina está no nível de Radiante
 O Herói de nome Thrall está no nível de Ascendente
+
+```
 
 O que foi utilizado:
 ✅ Variáveis → para armazenar nome e XP de cada herói
