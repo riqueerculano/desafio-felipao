@@ -44,11 +44,11 @@ node src/index.js
 📌 Exemplo de Saída
 
 ```
-O Herói de nome Arthas está no nível de Prata
+O Herói de nome Arthurus está no nível de Prata
 O Herói de nome Sylvana está no nível de Ferro
-O Herói de nome Illidan está no nível de Platina
-O Herói de nome Jaina está no nível de Radiante
-O Herói de nome Thrall está no nível de Ascendente
+O Herói de nome Uriel está no nível de Platina
+O Herói de nome Galadriel está no nível de Radiante
+O Herói de nome Thanos está no nível de Ascendente
 
 ```
 
