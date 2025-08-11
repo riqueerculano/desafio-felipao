@@ -53,6 +53,7 @@ O Herói de nome Thanos está no nível de Ascendente
 ```
 
 O que foi utilizado:
+
 ✅ Variáveis → para armazenar nome e XP de cada herói
 
 ✅ Operadores → comparação (<, >=, <=)
@@ -62,4 +63,5 @@ O que foi utilizado:
 ✅ Estrutura de decisão → if/else para classificar o nível
 
 🧠 Autor
+
 Desenvolvido por Henrique Erculano como parte do programa da DIO.me.
